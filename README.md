@@ -1,0 +1,2 @@
+# GuideMe-Android
+This Android app is aimed at making the Blind people independent. The app makes use physical buttons of smartphone to Guide the user to various menu options. The menu option is assisted by voice that reads out every menu selected. The user can read messages, Capture and send images , share location via SMS etc . All functionalities are read out by the system so that the user is aware which option is selected.
